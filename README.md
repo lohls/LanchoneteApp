@@ -1,7 +1,7 @@
 
-# Sabor da Vila (Android, Java, SQLite)
+# Sabor da Vila 
 
-App simples para **controle de produtos, registro de vendas e relatórios**.
+App para **controle de produtos, registro de vendas e relatórios**.
 Feito em **Java** com **SQLite** 
 
 ## Como abrir no Android Studio 
