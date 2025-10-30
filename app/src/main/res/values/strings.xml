@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Sabor da Vila</string>
+
+    <string name="lanchonete_app">Sabor da Vila</string>
+    <string name="registrar_venda">Registrar Venda</string>
+    <string name="produtos">Produtos</string>
+    <string name="relatorios">Relatórios</string>
+
+    <string name="nome_produto">Nome do Produto</string>
+    <string name="preco">Preço (R$)</string>
+    <string name="quantidade_estoque">Quantidade em Estoque</string>
+    <string name="salvar_produto">Salvar Produto</string>
+
+    <string name="produto">Produto</string>
+    <string name="quantidade">Quantidade</string>
+    <string name="valor_total">Valor Total (R$)</string>
+    <string name="registrar">Registrar</string>
+
+    <string name="search_hint">Buscar produtos...</string>
+    <string name="add_product">Adicionar produto</string>
+    <string name="editar">Editar</string>
+    <string name="excluir">Excluir</string>
+    <string name="produto_excluido">Produto excluído</string>
+
+    <string name="opcoes">Opções</string>
+</resources>

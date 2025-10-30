@@ -1,0 +1,24 @@
+@"
+
+.gradle/
+.local/
+**/build/
+**/.cxx/
+**/.externalNativeBuild/
+captures/
+local.properties
+*.keystore
+*.jks
+
+
+.idea/
+*.iml
+
+# Outputs
+*.apk
+*.aab
+outputs/
+
+wrapper/dists/
+caches/
+"@ | Out-File -FilePath .gitignore -Encoding UTF8
